@@ -19,6 +19,7 @@ To test the job, run
     sbatch run_alakazam-test.slurm
 
 and to check the status 
+
     squeue -u netid
 
 Upon successful completion, your run directory should contain an image file `alakazam-test.jpg`. 
