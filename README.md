@@ -27,4 +27,5 @@ Upon successful completion, your run directory should contain an image file `ala
 The singularity file is created from the docker image. You can create the image using the build files in the build directory or use the existing singularity file in the Amarel cluster. 
 
 
+----
 
